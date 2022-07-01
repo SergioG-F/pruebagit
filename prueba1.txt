@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 esto es una prueaba1 nuevo Cambio
-Esto es una segunda prueba1, nuevo Cambios
+Esto es una segunda prueba1,confflicto merge master
+=======
+esto es una pruea
+esto es una segunda prueba,nuevo cambio
+tercer cambio
+>>>>>>> rama1
